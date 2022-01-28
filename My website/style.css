@@ -1,0 +1,49 @@
+header h1{
+    color: #352b91;
+    font-size:2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:5px solid black;
+padding: 5px;
+width: 700px;
+margin: 10px auto;
+}
+section b{
+
+    font-size: 2rem;
+    font-family: sans-serif;
+}
+section {
+border: 4px solid black;
+padding: 40px 60px;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+body{
+    background: #e1ecaf;
+
+}
+input[type="submit"]{
+    width: 50mm;
+    height: 10mm;
+    background: #1907b6;
+    font-size: 1rem;
+    color: white;
+}
+button{
+    width: 50mm;
+    height: 10mm;
+    background: #c90b1b;
+    font-size: 1rem;
+    color: white; 
+}
+select[name="option"]{
+    width: 50mm;
+    height: 10mm;
+    background: #20e0ee;
+    font-size: 1rem;
+    color: white; 
+}
+textarea{
+    width:20rem ;
+    height: 5rem;
+}
